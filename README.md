@@ -1,1 +1,1 @@
-# Golge777-DataAnalysis--Project--ClusteringNeighborhoodsInToronto--
+In this repository, I tried to cluster neighborhoods of Toronto and show them clustered on Toronto map. I obtained the raw data from the Wikipedia page. After getting the data and structered into a panda dataframe, I clear it and show the neighborhoods in a clustered form on a folium map.
